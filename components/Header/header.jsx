@@ -13,7 +13,7 @@ class Header extends React.Component
         return (
             <div className="container Header">
                 <div className="header-title">
-                    <span className="header-icon"></span> Header
+                    <span className="header-icon">🔌</span> This is a Header
                 </div>
                 <div className="header-stripe"></div>
             </div>
